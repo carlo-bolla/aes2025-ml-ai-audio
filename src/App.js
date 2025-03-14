@@ -30,7 +30,7 @@ import React from "react";
 
 const PlaceholderPage = () => {
   return (
-    <div className="flex flex-col items-center justify-center h-screen bg-gray-100">
+    <div className="flex flex-col items-center justify-center h-screen bg-gray-100 text-center">
       <h1 className="text-3xl font-bold">Paper Title</h1>
       <p className="text-lg text-gray-600 mt-4">Page under construction...</p>
     </div>
